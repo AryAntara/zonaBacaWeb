@@ -19,7 +19,7 @@ command to run backend
 cd api
 npm i
 node index.mjs
-//port is 8888
+#port is 8888
 ```
 
 all done now you can look in browser and enjoy
